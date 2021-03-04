@@ -15,7 +15,7 @@ Deployed on   | Heroku
 	3. Run `python manage.py runserver` to start the server
 	4. It will run on your localhost:8000
 3. Setup Frontend
-	1. run "npm start" in the frontend repository
+	1. run `npm start` in the frontend repository to start application
 	2. It will start at localhost:3000
 
 ### LIVE SERVER: ###
@@ -24,7 +24,7 @@ Deployed on   | Heroku
 2. API Link=> https://studentleaderboard-api.herokuapp.com/students-records/
 
 #### APIs ####
-i. ViewAll:'https://studentleaderboard-api.herokuapp.com/students-records/view-all/' ==> [GET]
-ii. Create:'https://studentleaderboard-api.herokuapp.com/students-records/create/' ==> [POST]
-iii. Update:'https://studentleaderboard-api.herokuapp.com/students-records/update/<str:Id>' ==> [POST]
-iv. Delete:'https://studentleaderboard-api.herokuapp.com/students-records/delete/<str:Id>' ==> [POST] 
+1. ViewAll:'https://studentleaderboard-api.herokuapp.com/students-records/view-all/' ==> [GET]
+2. Create:'https://studentleaderboard-api.herokuapp.com/students-records/create/' ==> [POST]
+3. Update:'https://studentleaderboard-api.herokuapp.com/students-records/update/<str:Id>' ==> [POST]
+4. Delete:'https://studentleaderboard-api.herokuapp.com/students-records/delete/<str:Id>' ==> [POST] 

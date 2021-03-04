@@ -6,9 +6,9 @@ Database -> mySQL
 Deployed on-> Heroku
 
 Local Start Application:
--> Setup Database:
-	 A Import the .sql file in Databse folder to your local database.
--> Setup Backend
+->Setup Database:
+	A Import the .sql file in Databse folder to your local database.
+->Setup Backend
 	 1. Add MySQL database credentials to backend(django) application in settings.py
 	 2. Install all the python packages from requirements.txt
 	 3. Run "python manage.py runserver" to start the server

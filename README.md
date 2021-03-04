@@ -1,9 +1,10 @@
 # This is an assignment for Full Stack Developer Internship (AlmaBetter) #
------------ | ------------------------
-Frontend    | react Js
-backend     | Django REST Framework
-Database    | mySQL
-Deployed on | Heroku
+Stack         |  Technology
+------------- | -------------
+Frontend      | React Js
+backend       | Django REST Framework
+Database      | mySQL
+Deployed on   | Heroku
 
 Local Start Application:
 ->Setup Database:
@@ -11,7 +12,7 @@ Local Start Application:
 ->Setup Backend
 	 1. Add MySQL database credentials to backend(django) application in settings.py
 	 2. Install all the python packages from requirements.txt
-	 3. Run "python manage.py runserver" to start the server
+	 3. Run `python manage.py runserver` to start the server
 	 4. It will run on your localhost:8000
 -> Setup Frontend
 	1. run "npm start" in the frontend repository
